@@ -4383,6 +4383,11 @@ input, select, textarea {
 			text-align: right;
 		}
 
+		.banner.style5.content-align-center {
+			text-align: center;
+		}
+		
+
 		.banner.style5.image-position-left .image img {
 			-moz-object-position: left;
 			-webkit-object-position: left;
@@ -4396,6 +4401,7 @@ input, select, textarea {
 			-ms-object-position: right;
 			object-position: right;
 		}
+
 
 	.banner .image {
 		background-color: rgba(0, 0, 0, 0.125);
@@ -5064,6 +5070,7 @@ input, select, textarea {
 		position: relative;
 		overflow-x: hidden;
 		text-align: left;
+		background-color: var(--mzcolor1);
 	}
 
 		.spotlight.style2 .content {
