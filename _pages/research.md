@@ -18,7 +18,7 @@ Michael Zahorec, Robert Bishop, Nat Hansen, John Schwenkler, and Justin Sytsma. 
 
 #### **Understanding AI**
 
-*Accepted, pending review of final draft, for* Philosophy of Artificial Intelligence*, eds. D. Černý, V. Mařík, and J. Wiedermann. Springer.* [[long abstract](google.com)]
+*Accepted, pending review of final draft, for* Philosophy of Artificial Intelligence*, eds. D. Černý, V. Mařík, and J. Wiedermann. Springer.*
 
 <br>
 #### **Natural Kinds: Towards A Revised Picture**
@@ -64,15 +64,15 @@ Michael Zahorec, Robert Bishop, Nat Hansen, John Schwenkler, and Justin Sytsma. 
 *2025. American Philosophical Association Eastern, Society for the Metaphysics of Science.*
 
 <br>
-**Semantic, Technical, and Normative Tangles: Three Levels of Disagreement about Artificial Intelligence**
+**Semantic, Technical, and Normative Tangles: Three Levels of Disagreement about Artificial Intelligence**<br>
 *2025. Utah State University.*
 
 <br>
-**Nature and Natural Kinds**
+**Nature and Natural Kinds**<br>
 *2024. Duke/UNC Graduate Conference.*
 
 <br>
-**Natural Kinds: Towards a Revised Approach**
+**Natural Kinds: Towards a Revised Approach**<br>
 *2024. Mississippi Academy of Sciences*
 
 
