@@ -17,8 +17,8 @@ In [this paper](http://127.0.0.1:4000/research/#linguistic-corpora-and-ordinary-
 ## Language Model Evaluation at Humana
 During Summer 2024, I worked full-time at Humana with the [Responsible AI Team](https://mostly.ai/data-democratization-podcast/fair-synthetic-data-and-ethical-ai-in-healthcare). We leveraged existing frameworks and collections of methods (e.g., [HELM](https://crfm.stanford.edu/helm/) and [TrustLLM](https://trustllm.eu/)) to improve LLM evaluation processes at Humana in an empirically-informed, principled manner. Primarily concerned with Summarization and Question-Answer tasks.
 
-## Data Science Education at MathWorks
+## Data Science at MathWorks
 For three summers (2020-2022), I worked full-time at MathWorks with the Data Science Courses Team. I helped develop scripts, projects, assessments, and more. See, e.g., [Practical Data Science with MATLAB on Coursera](https://www.coursera.org/specializations/practical-data-science-matlab). 
 
 ## Formatting and Index Generator--Kant's *Critique of Practical Reason*
-For Courtney Fugate's new translation of Kant's Second Critique. I wrote Python code to parse the raw text and generate an index. It implements various replacement rules and rules for term-searching. Feel free to peruse: [https://github.com/mzahorec/indexgen](https://github.com/mzahorec/indexgen).
+For Courtney Fugate's new translation of Kant's Second Critique. In addition to formatting the book in InDesign, I wrote Python code to parse the raw text and generate an index. It implements various replacement rules and rules for term-searching. Feel free to peruse: [https://github.com/mzahorec/indexgen](https://github.com/mzahorec/indexgen).
