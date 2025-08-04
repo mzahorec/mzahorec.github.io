@@ -20,5 +20,8 @@ During Summer 2024, I worked full-time at Humana with the [Responsible AI Team](
 ## Data Science at MathWorks
 For three summers (2020-2022), I worked full-time at MathWorks with the Data Science Courses Team. I helped develop scripts, projects, assessments, and more. See, e.g., [Practical Data Science with MATLAB on Coursera](https://www.coursera.org/specializations/practical-data-science-matlab). 
 
-## Formatting and Index Generator--Kant's *Critique of Practical Reason*
+## Formatting and Index Generator -- *Critique of Practical Reason*
 For Courtney Fugate's new translation of Kant's Second Critique. In addition to formatting the book in InDesign, I wrote Python code to parse the raw text and generate an index. It implements various replacement rules and rules for term-searching. Feel free to peruse: [https://github.com/mzahorec/indexgen](https://github.com/mzahorec/indexgen).
+
+## This Website
+If you would like to make a website like this one, feel free to peruse my modifications ([https://github.com/mzahorec/mzahorec.github.io](https://github.com/mzahorec/mzahorec.github.io)) of [this Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
