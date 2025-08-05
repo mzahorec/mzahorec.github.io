@@ -68,10 +68,14 @@ Michael Zahorec, Robert Bishop, Nat Hansen, John Schwenkler, and Justin Sytsma. 
 
 <br>
 **Nature and Natural Kinds**<br>
+*2024. Alabama Philosophical Society.*
+
+<br>
+**Natural Kinds: Towards a Revised Approach**<br>
 *2024. Duke/UNC Graduate Conference.*
 
 <br>
 **Natural Kinds: Towards a Revised Approach**<br>
-*2024. Mississippi Academy of Sciences*
+*2024. Mississippi Academy of Sciences.*
 
 
