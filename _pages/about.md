@@ -17,6 +17,6 @@ I work on the ethics and theory of AI, focusing on epistemic issues. From variou
 
 I am interested in AI evaluation more generally. Beyond being theoretically and technically very *interesting*, it is *normatively* significant for relatively obvious reasons: whether and in what contexts we should use or rely on systems depends, in large part, on how well they perform in relevant contexts. I have done [relevant industry work](/cv/) and [academic research](/research/#llm-explainability-conceptual-foundations-and-an-empirical-study-of-natural-language-explanations).
 
-I am a proponent and practicioner of digital humanities. See some of my [projects](/projects/).
+I am a proponent and practitioner of digital humanities. See some of my [projects](/projects/).
 
 Thank you for visiting my site. If you'd like to make a similar one, check out [the template for this website](https://github.com/mmistakes/mm-github-pages-starter?tab=readme-ov-file)—it's free!
