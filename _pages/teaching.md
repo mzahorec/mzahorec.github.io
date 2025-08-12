@@ -55,6 +55,7 @@ I am would be glad to teach in the following areas, or adjacent ones.
  - Technology Ethics
  - Applied Ethics
  - Environmental Ethics
+ - Engineering Ethics
  - Ethical Theory (especially virtue ethics and Kantian ethics)
  - Logic
  - Reasoning and Critical Thinking
