@@ -5,7 +5,7 @@ title: "Teaching"
 
 ## Teaching Portfolio
 
-My teaching philosophy, course evaluations, and sample syllabi are available here: [my teaching portfolio](https://drive.google.com/file/d/1STn_45xJaVXToB-7r_fnuSpHAYSDPTYX/view?usp=sharing).
+My teaching philosophy, course evaluations, and sample syllabi are available here: [my teaching portfolio](https://drive.google.com/file/d/1yAbc2VfK00zT_QFcNLOvCTpIGlizOZx7/view?usp=sharing).
 
 <br>
 ## Sample Course Descriptions (see Teaching Portfolio for syllabi)
