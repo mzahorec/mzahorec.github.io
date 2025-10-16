@@ -55,8 +55,16 @@ Michael Zahorec, Robert Bishop, Nat Hansen, John Schwenkler, and Justin Sytsma. 
 
 ## Conference Presentations
 
+**The Limits of AI Understanding and What They Mean for Users**<br>
+*[Upcoming] 2025. Illinois Institute of Technology, 2nd Sawyier Conference on Ethics of Technology.*
+
+<br>
+**AI as Idea Generator**<br>
+*[Upcoming] 2025. Illinois Philosophical Association.*
+
+<br>
 **Black Boxes, Rules, and Reasons: On Understanding and AI Ethics**<br>
-*[Forthcoming] 2025. Alabama Philosophical Society.*
+*2025. Alabama Philosophical Society.*
 
 <br>
 **Massive Complexity: The Heart of Concerns and Disagreements about Artificial Intelligence**<br>
