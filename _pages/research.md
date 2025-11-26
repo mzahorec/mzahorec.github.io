@@ -3,19 +3,21 @@ permalink: /research/
 title: "Research"
 ---
 
-On this page: publications, research in progress or under review, and conference presentations.
+On this page: articles and conference presentations.
 
-## Publications
+## Articles (Published, Forthcoming, Under Review)
 
 #### **Linguistic Corpora and Ordinary Language: On the Dispute Between Ryle and Austin About the Use of ‘Voluntary’, ‘Involuntary’, ‘Voluntarily’, and ‘Involuntarily’**
 Michael Zahorec, Robert Bishop, Nat Hansen, John Schwenkler, and Justin Sytsma. 2023. *Experimental Philosophy of Language: Perspectives, Methods and Prospects*. Ed. David Bordonaba-Plou. Springer: *Logic, Argumentation and Reasoning* series. [[preprint](https://philpapers.org/archive/ZAHLCA.pdf)] [[published version](https://link.springer.com/chapter/10.1007/978-3-031-28908-8_7)]
 
 **Abstract:** The fact that Gilbert Ryle and J.L. Austin seem to disagree about the ordinary use of words such as ‘voluntary’, ‘involuntary’, ‘voluntarily’, and ‘involuntarily’ has been taken to cast doubt on the methods of ordinary language philosophy. As Benson Mates puts the worry, ‘if agreement about usage cannot be reached within so restricted a sample as the class of Oxford Professors of Philosophy, what are the prospects when the sample is enlarged?’ (Mates, Inquiry 1:161–171, 1958, p. 165). In this chapter, we evaluate Mates’s criticism alongside Ryle’s and Austin’s specific claims about the ordinary use of these words, assessing these claims against actual examples of ordinary use drawn from the British National Corpus (BNC). Our evaluation consists in applying a combination of methods: first aggregating judgments about a large set of samples drawn from the corpus, and then using a clustering algorithm to uncover connections between different types of use. In applying these methods, we show where and to what extent Ryle’s and Austin’s accounts of the use of the target terms are accurate as well as where they miss important aspects of ordinary use, and we demonstrate the usefulness of this new combination of methods. At the heart of our approach is a commitment to the idea that systematically looking at actual uses of expressions is an essential component of any approach to ordinary language philosophy.
 
-<br><br>
+<br>
+#### **AI as Idea Generator**
 
-## Research in Progress or Under Review
+*Under contract, currently preparing final manuscript, for* AI in Research & Education*, eds. Matthew Dennis and Vlasta Sikimić (series ed. Philipp Hacker.). Oxford Intsersections, Oxford University Press.* [[long abstract](https://drive.google.com/file/d/1bl0UmED-k3aC9FdfZLj15wgrQcYuILcF/view?usp=sharing)]
 
+<br>
 #### **Understanding AI**
 
 *Accepted, pending review of final draft, for* Philosophy of Artificial Intelligence*, eds. D. Černý, V. Mařík, and J. Wiedermann. Springer.* [[long abstract](https://drive.google.com/file/d/1pwUxTgZ5IkS1ZcZdrgWbptQ2ZCmB7QZq/view?usp=sharing)]
@@ -55,12 +57,16 @@ Michael Zahorec, Robert Bishop, Nat Hansen, John Schwenkler, and Justin Sytsma. 
 
 ## Conference Presentations
 
+**Kinds are What There Is — and How We Think of It**<br>
+*[Upcoming] 2026. American Philosophical Association, Pacific. Workshop Session.*
+
+<br>
 **The Limits of AI Understanding and What They Mean for Users**<br>
-*[Upcoming] 2025. Illinois Institute of Technology, 2nd Sawyier Conference on Ethics of Technology.*
+*2025. Illinois Institute of Technology, 2nd Sawyier Conference on Ethics of Technology.*
 
 <br>
 **AI as Idea Generator**<br>
-*[Upcoming] 2025. Illinois Philosophical Association.*
+*2025. Illinois Philosophical Association.*
 
 <br>
 **Black Boxes, Rules, and Reasons: On Understanding and AI Ethics**<br>
