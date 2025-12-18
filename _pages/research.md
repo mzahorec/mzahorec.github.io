@@ -57,6 +57,10 @@ Michael Zahorec, Robert Bishop, Nat Hansen, John Schwenkler, and Justin Sytsma. 
 
 ## Conference Presentations
 
+**Invited Commentary** on "Bullshit without Bullshitters: How LLMs 'Assert' without Intentions"<br>
+*[Upcoming] 2026. Penn-Georgetown Digital Ethics Conference.*
+
+<br>
 **Kinds are What There Is — and How We Think of It**<br>
 *[Upcoming] 2026. American Philosophical Association, Pacific. Workshop Session.*
 
