@@ -20,7 +20,7 @@ Michael Zahorec, Robert Bishop, Nat Hansen, John Schwenkler, and Justin Sytsma. 
 <br>
 #### **Understanding AI**
 
-*Accepted, pending review of final draft, for* Philosophy of Artificial Intelligence*, eds. D. Černý, V. Mařík, and J. Wiedermann. Springer.* [[long abstract](https://drive.google.com/file/d/1pwUxTgZ5IkS1ZcZdrgWbptQ2ZCmB7QZq/view?usp=sharing)]
+*Forthcoming, in* Philosophy of Artificial Intelligence*, eds. D. Černý, V. Mařík, and J. Wiedermann. Springer.* [[preprint](https://drive.google.com/file/d/101zcSUdGrIVyNeekKQvfhDUbLyX0K9Bm/view?usp=sharing)]
 
 <br>
 #### **Natural Kinds: Towards A Revised Picture**
