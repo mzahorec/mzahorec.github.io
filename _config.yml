@@ -88,6 +88,12 @@ footer:
       icon: "fas fa-fw fa-users"
       url: "https://philpeople.org/profiles/michael-zahorec"
 
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-8J8HG54MS5"
+    anonymize_ip: false
+
 defaults:
   # _posts
   - scope:
